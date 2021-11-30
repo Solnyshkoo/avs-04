@@ -1,0 +1,101 @@
+Filled container:
+0: It is Bus: Fuel capacity = 1, Fuel consumption = 132, Maximum pearson capacity = 240. Distance = 0.757576
+1: It is Car: Fuel capacity = 15, Fuel consumption = 362, Maximum speed = 190. Distance = 4.14365
+2: It is Bus: Fuel capacity = 32, Fuel consumption = 360, Maximum pearson capacity = 363. Distance = 8.88889
+3: It is Truck: Fuel capacity = 18, Fuel consumption = 173, Lifting capacity = 171. Distance = 10.4046
+4: It is Car: Fuel capacity = 34, Fuel consumption = 241, Maximum speed = 3. Distance = 14.1079
+5: It is Truck: Fuel capacity = 57, Fuel consumption = 354, Lifting capacity = 115. Distance = 16.1017
+6: It is Truck: Fuel capacity = 66, Fuel consumption = 311, Lifting capacity = 279. Distance = 21.2219
+7: It is Car: Fuel capacity = 27, Fuel consumption = 110, Maximum speed = 229. Distance = 24.5455
+8: It is Truck: Fuel capacity = 65, Fuel consumption = 255, Lifting capacity = 202. Distance = 25.4902
+9: It is Car: Fuel capacity = 93, Fuel consumption = 316, Maximum speed = 25. Distance = 29.4304
+10: It is Car: Fuel capacity = 36, Fuel consumption = 120, Maximum speed = 29. Distance = 30
+11: It is Truck: Fuel capacity = 134, Fuel consumption = 395, Lifting capacity = 127. Distance = 33.9241
+12: It is Bus: Fuel capacity = 136, Fuel consumption = 369, Maximum pearson capacity = 294. Distance = 36.8564
+13: It is Car: Fuel capacity = 87, Fuel consumption = 235, Maximum speed = 329. Distance = 37.0213
+14: It is Car: Fuel capacity = 70, Fuel consumption = 186, Maximum speed = 28. Distance = 37.6344
+15: It is Bus: Fuel capacity = 162, Fuel consumption = 359, Maximum pearson capacity = 136. Distance = 45.1253
+16: It is Car: Fuel capacity = 34, Fuel consumption = 62, Maximum speed = 247. Distance = 54.8387
+17: It is Car: Fuel capacity = 87, Fuel consumption = 153, Maximum speed = 305. Distance = 56.8627
+18: It is Bus: Fuel capacity = 159, Fuel consumption = 277, Maximum pearson capacity = 199. Distance = 57.4007
+19: It is Truck: Fuel capacity = 116, Fuel consumption = 195, Lifting capacity = 288. Distance = 59.4872
+20: It is Car: Fuel capacity = 194, Fuel consumption = 322, Maximum speed = 325. Distance = 60.2484
+21: It is Bus: Fuel capacity = 169, Fuel consumption = 280, Maximum pearson capacity = 347. Distance = 60.3571
+22: It is Car: Fuel capacity = 35, Fuel consumption = 57, Maximum speed = 188. Distance = 61.4035
+23: It is Car: Fuel capacity = 74, Fuel consumption = 120, Maximum speed = 82. Distance = 61.6667
+24: It is Car: Fuel capacity = 81, Fuel consumption = 130, Maximum speed = 157. Distance = 62.3077
+25: It is Bus: Fuel capacity = 107, Fuel consumption = 171, Maximum pearson capacity = 225. Distance = 62.5731
+26: It is Car: Fuel capacity = 172, Fuel consumption = 257, Maximum speed = 306. Distance = 66.9261
+27: It is Bus: Fuel capacity = 213, Fuel consumption = 315, Maximum pearson capacity = 75. Distance = 67.619
+28: It is Car: Fuel capacity = 188, Fuel consumption = 274, Maximum speed = 276. Distance = 68.6131
+29: It is Bus: Fuel capacity = 232, Fuel consumption = 336, Maximum pearson capacity = 302. Distance = 69.0476
+30: It is Truck: Fuel capacity = 182, Fuel consumption = 262, Lifting capacity = 286. Distance = 69.4656
+31: It is Truck: Fuel capacity = 35, Fuel consumption = 50, Lifting capacity = 358. Distance = 70
+32: It is Car: Fuel capacity = 91, Fuel consumption = 118, Maximum speed = 176. Distance = 77.1186
+33: It is Truck: Fuel capacity = 159, Fuel consumption = 199, Lifting capacity = 319. Distance = 79.8995
+34: It is Car: Fuel capacity = 296, Fuel consumption = 364, Maximum speed = 276. Distance = 81.3187
+35: It is Car: Fuel capacity = 135, Fuel consumption = 160, Maximum speed = 181. Distance = 84.375
+36: It is Bus: Fuel capacity = 296, Fuel consumption = 350, Maximum pearson capacity = 153. Distance = 84.5714
+37: It is Car: Fuel capacity = 264, Fuel consumption = 309, Maximum speed = 25. Distance = 85.4369
+38: It is Car: Fuel capacity = 250, Fuel consumption = 292, Maximum speed = 160. Distance = 85.6164
+39: It is Truck: Fuel capacity = 295, Fuel consumption = 344, Lifting capacity = 164. Distance = 85.7558
+40: It is Truck: Fuel capacity = 343, Fuel consumption = 394, Lifting capacity = 388. Distance = 87.0558
+41: It is Bus: Fuel capacity = 352, Fuel consumption = 361, Maximum pearson capacity = 173. Distance = 97.5069
+42: It is Truck: Fuel capacity = 156, Fuel consumption = 158, Lifting capacity = 136. Distance = 98.7342
+43: It is Car: Fuel capacity = 86, Fuel consumption = 87, Maximum speed = 72. Distance = 98.8506
+44: It is Car: Fuel capacity = 199, Fuel consumption = 201, Maximum speed = 256. Distance = 99.005
+45: It is Car: Fuel capacity = 250, Fuel consumption = 252, Maximum speed = 211. Distance = 99.2063
+46: It is Bus: Fuel capacity = 283, Fuel consumption = 285, Maximum pearson capacity = 19. Distance = 99.2982
+47: It is Bus: Fuel capacity = 348, Fuel consumption = 348, Maximum pearson capacity = 351. Distance = 100
+48: It is Bus: Fuel capacity = 107, Fuel consumption = 104, Maximum pearson capacity = 307. Distance = 102.885
+49: It is Bus: Fuel capacity = 120, Fuel consumption = 116, Maximum pearson capacity = 22. Distance = 103.448
+50: It is Truck: Fuel capacity = 84, Fuel consumption = 81, Lifting capacity = 74. Distance = 103.704
+51: It is Truck: Fuel capacity = 345, Fuel consumption = 332, Lifting capacity = 170. Distance = 103.916
+52: It is Truck: Fuel capacity = 243, Fuel consumption = 232, Lifting capacity = 377. Distance = 104.741
+53: It is Car: Fuel capacity = 167, Fuel consumption = 158, Maximum speed = 96. Distance = 105.696
+54: It is Car: Fuel capacity = 386, Fuel consumption = 365, Maximum speed = 40. Distance = 105.753
+55: It is Car: Fuel capacity = 100, Fuel consumption = 89, Maximum speed = 242. Distance = 112.36
+56: It is Car: Fuel capacity = 170, Fuel consumption = 150, Maximum speed = 376. Distance = 113.333
+57: It is Bus: Fuel capacity = 261, Fuel consumption = 225, Maximum pearson capacity = 55. Distance = 116
+58: It is Bus: Fuel capacity = 292, Fuel consumption = 243, Maximum pearson capacity = 362. Distance = 120.165
+59: It is Truck: Fuel capacity = 120, Fuel consumption = 97, Lifting capacity = 265. Distance = 123.711
+60: It is Truck: Fuel capacity = 330, Fuel consumption = 259, Lifting capacity = 240. Distance = 127.413
+61: It is Car: Fuel capacity = 219, Fuel consumption = 171, Maximum speed = 97. Distance = 128.07
+62: It is Truck: Fuel capacity = 332, Fuel consumption = 254, Lifting capacity = 392. Distance = 130.709
+63: It is Car: Fuel capacity = 128, Fuel consumption = 97, Maximum speed = 346. Distance = 131.959
+64: It is Bus: Fuel capacity = 220, Fuel consumption = 166, Maximum pearson capacity = 98. Distance = 132.53
+65: It is Car: Fuel capacity = 76, Fuel consumption = 54, Maximum speed = 231. Distance = 140.741
+66: It is Bus: Fuel capacity = 340, Fuel consumption = 240, Maximum pearson capacity = 300. Distance = 141.667
+67: It is Truck: Fuel capacity = 221, Fuel consumption = 151, Lifting capacity = 203. Distance = 146.358
+68: It is Car: Fuel capacity = 218, Fuel consumption = 148, Maximum speed = 248. Distance = 147.297
+69: It is Car: Fuel capacity = 331, Fuel consumption = 218, Maximum speed = 262. Distance = 151.835
+70: It is Bus: Fuel capacity = 141, Fuel consumption = 92, Maximum pearson capacity = 41. Distance = 153.261
+71: It is Car: Fuel capacity = 387, Fuel consumption = 250, Maximum speed = 341. Distance = 154.8
+72: It is Truck: Fuel capacity = 382, Fuel consumption = 225, Lifting capacity = 154. Distance = 169.778
+73: It is Truck: Fuel capacity = 277, Fuel consumption = 159, Lifting capacity = 379. Distance = 174.214
+74: It is Bus: Fuel capacity = 391, Fuel consumption = 223, Maximum pearson capacity = 321. Distance = 175.336
+75: It is Car: Fuel capacity = 369, Fuel consumption = 201, Maximum speed = 333. Distance = 183.582
+76: It is Bus: Fuel capacity = 173, Fuel consumption = 94, Maximum pearson capacity = 394. Distance = 184.043
+77: It is Car: Fuel capacity = 192, Fuel consumption = 104, Maximum speed = 282. Distance = 184.615
+78: It is Truck: Fuel capacity = 333, Fuel consumption = 179, Lifting capacity = 90. Distance = 186.034
+79: It is Bus: Fuel capacity = 147, Fuel consumption = 79, Maximum pearson capacity = 109. Distance = 186.076
+80: It is Car: Fuel capacity = 219, Fuel consumption = 116, Maximum speed = 317. Distance = 188.793
+81: It is Car: Fuel capacity = 281, Fuel consumption = 147, Maximum speed = 295. Distance = 191.156
+82: It is Truck: Fuel capacity = 251, Fuel consumption = 116, Lifting capacity = 96. Distance = 216.379
+83: It is Bus: Fuel capacity = 328, Fuel consumption = 150, Maximum pearson capacity = 287. Distance = 218.667
+84: It is Car: Fuel capacity = 209, Fuel consumption = 94, Maximum speed = 334. Distance = 222.34
+85: It is Bus: Fuel capacity = 144, Fuel consumption = 64, Maximum pearson capacity = 292. Distance = 225
+86: It is Car: Fuel capacity = 377, Fuel consumption = 141, Maximum speed = 296. Distance = 267.376
+87: It is Car: Fuel capacity = 307, Fuel consumption = 112, Maximum speed = 302. Distance = 274.107
+88: It is Bus: Fuel capacity = 363, Fuel consumption = 127, Maximum pearson capacity = 368. Distance = 285.827
+89: It is Bus: Fuel capacity = 308, Fuel consumption = 103, Maximum pearson capacity = 336. Distance = 299.029
+90: It is Bus: Fuel capacity = 252, Fuel consumption = 82, Maximum pearson capacity = 174. Distance = 307.317
+91: It is Bus: Fuel capacity = 258, Fuel consumption = 77, Maximum pearson capacity = 232. Distance = 335.065
+92: It is Truck: Fuel capacity = 368, Fuel consumption = 65, Lifting capacity = 84. Distance = 566.154
+93: It is Bus: Fuel capacity = 189, Fuel consumption = 30, Maximum pearson capacity = 241. Distance = 630
+94: It is Truck: Fuel capacity = 68, Fuel consumption = 5, Lifting capacity = 18. Distance = 1360
+95: It is Car: Fuel capacity = 277, Fuel consumption = 19, Maximum speed = 75. Distance = 1457.89
+96: It is Bus: Fuel capacity = 377, Fuel consumption = 22, Maximum pearson capacity = 46. Distance = 1713.64
+97: It is Car: Fuel capacity = 383, Fuel consumption = 17, Maximum speed = 377. Distance = 2252.94
+98: It is Car: Fuel capacity = 290, Fuel consumption = 8, Maximum speed = 396. Distance = 3625
+99: It is Truck: Fuel capacity = 270, Fuel consumption = 3, Lifting capacity = 354. Distance = 9000

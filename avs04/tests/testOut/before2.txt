@@ -1,0 +1,12 @@
+Filled container:
+0: It is Car: Fuel capacity = 20, Fuel consumption = 39, Maximum speed = 38. Distance = 51.2821
+1: It is Truck: Fuel capacity = 330, Fuel consumption = 49, Lifting capacity = 89. Distance = 673.469
+2: It is Car: Fuel capacity = 30, Fuel consumption = 40, Maximum speed = 50. Distance = 75
+3: It is Bus: Fuel capacity = 22, Fuel consumption = 26, Maximum pearson capacity = 12. Distance = 84.6154
+4: It is Truck: Fuel capacity = 13, Fuel consumption = 14, Lifting capacity = 5. Distance = 92.8571
+5: It is Bus: Fuel capacity = 16, Fuel consumption = 14, Maximum pearson capacity = 10. Distance = 114.286
+6: It is Bus: Fuel capacity = 22234, Fuel consumption = 26112, Maximum pearson capacity = 1266. Distance = 85.1486
+7: It is Truck: Fuel capacity = 1309, Fuel consumption = 114, Lifting capacity = 500. Distance = 1148.25
+8: It is Bus: Fuel capacity = 160, Fuel consumption = 14166, Maximum pearson capacity = 10123. Distance = 1.12946
+9: It is Bus: Fuel capacity = 1213, Fuel consumption = 2837, Maximum pearson capacity = 145. Distance = 42.7564
+10: It is Bus: Fuel capacity = 37, Fuel consumption = 49, Maximum pearson capacity = 30. Distance = 75.5102
